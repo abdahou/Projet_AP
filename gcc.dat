@@ -1,5 +1,5 @@
   ofast:
-                              GFLOP/s
+Step    Time, s Interact/s  GFLOP/s
     0  7.771e-01  3.454e+08      7.9 *
     1  7.581e-01  3.541e+08      8.1 *
     2  7.581e-01  3.541e+08      8.1 *
