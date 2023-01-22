@@ -2,7 +2,7 @@ CC=gcc
 
 CFLAGS=-march=native -g3 -mavx2 -funroll-loops
 
-OFLAGS=-O1 -fopenmp -fopt-info-all=nbody.gcc.optrpt
+OFLAGS=-Ofast -fopenmp -fopt-info-all=nbody.gcc.optrpt
 
 
 all: nbody3D nbody3D_opt
